@@ -1,1 +1,7 @@
-.project
+*.~u
+*.precompile
+*.opt
+*.simulation.bootinfo
+*.simulation.bootinfo_guids
+*.simulation.compileinfo
+*_project.precompilecache
